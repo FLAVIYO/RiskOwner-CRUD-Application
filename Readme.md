@@ -23,6 +23,11 @@ This is a CRUD (Create, Read, Update, Delete) application for managing risk owne
     ```bash
     npm install
     ```
+ 4. generate prisma client:
+
+    ```bash
+    prisma generate
+    ```   
 
 ### Frontend
 
