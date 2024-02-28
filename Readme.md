@@ -86,6 +86,6 @@ This is a CRUD (Create, Read, Update, Delete) application for managing risk owne
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
+NB. I versioned the .env so you can use the same data base as mine, but you can change it if you feel so
 
 # RiskOwner-CRUD-Application
