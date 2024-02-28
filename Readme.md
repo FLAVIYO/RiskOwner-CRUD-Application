@@ -15,7 +15,7 @@ This is a CRUD (Create, Read, Update, Delete) application for managing risk owne
 2. Navigate to the backend directory:
 
     ```bash
-    cd RiskOwner_CRUD/backend
+    cd RiskOwner-CRUD-Application/backend
     ```
 
 3. Install dependencies:
